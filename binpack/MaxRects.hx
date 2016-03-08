@@ -12,7 +12,10 @@ import binpack.Rectangle;
 		- Ported to ActionScript3
 	
 	Author: Tony DiPerna
-	    - Ported to HaXe, optimized
+		- Ported to HaXe, optimized
+
+	Author: Ilya Kolbin
+		- Added batch feature	
 
 	This work is released to Public Domain, do whatever you want with it.
 */
